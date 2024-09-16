@@ -3,7 +3,7 @@
 
 This repository contains the code & data used for my MSc thesis. 
 
-Link to the thesis: (available soon)
+Access the thesis [here](https://hdl.handle.net/20.500.12608/65146).
 
 
 ## Abstract
